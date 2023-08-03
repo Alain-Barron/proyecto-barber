@@ -34,6 +34,13 @@ body {
 
 /* ============ HERO ============ */
 
+.h1-galeria{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    padding: 20px 0px;
+}
+
 .h1-hero {
     font-family: 'Russo One', sans-serif;
     text-align: center;
@@ -325,4 +332,12 @@ footer {
     .div-nav .navbar .collapse .navbar-nav .nav-item .nav-link {
         font-size: 1.1rem;
     }
+}
+
+
+.galeria-1{
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
 }
